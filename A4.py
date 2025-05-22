@@ -38,10 +38,10 @@ print("Values: ",", ".join(map(str, my_dict.values())))
 fav_things = ('Maze Runner', 'Luther', 'The Silent Patient')
 
 # Prints the tuple
-print(fav_things)
+print("Favorite Things: ",fav_things)
 
 # Tries to update the tuple but gets an error
 # fav_things[1]= 'Be Humble'
 
 # Prints the length of the tuple
-print(len(fav_things))
+print("Length of Tuple: ",len(fav_things))
